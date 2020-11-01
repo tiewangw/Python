@@ -18,3 +18,18 @@ matrix_object = np.mat([
 
 print(matrix_object)
 print("-------------------------")
+
+# 选择矩阵的第2行第2列
+print(matrix_object[1,1])
+print("-------------------------")
+
+# 选择矩阵的第1行和第2行以及所有列
+print(matrix_object[:2,:])
+print("-------------------------")
+
+# 选择矩阵的所有行和 第2列
+print(matrix_object[:,1:2])
+
+
+
+
