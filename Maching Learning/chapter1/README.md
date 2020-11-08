@@ -7,6 +7,10 @@ NumPy的主要数据结构是多维数组。
  @ 欧几里得向量 （http://bit.ly/2FtnRoL）
 
 
+??
+1.12 matrix_rank  矩阵的秩
+
+
 
 
 

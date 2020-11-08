@@ -7,13 +7,13 @@ matrix = np.array([
 ])
 
 # 查看矩阵的行数和列数
-print(matrix.shape)
+print(matrix.shape)  # (3, 4)
 
 # 查看矩阵的数量（行数*列数）
-print(matrix.size)
+print(matrix.size)  # 12
 
 # 查看矩阵的维度
-print(matrix.ndim)
+print(matrix.ndim)  # 2
 
 
 
