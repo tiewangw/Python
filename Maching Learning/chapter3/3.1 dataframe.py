@@ -21,6 +21,9 @@ print(dataframe.append(new_person, ignore_index=True))
 # 1  Steven Stenvenson   25   False
 # 2       Molly Monney   40    True
 
+
+
+
 ##########
 # 在真实场景中，创建一个空的数据帧对象然后再填充数据的情况几乎不会发生。
 # 一般通过加载其他源（例如一个CSV文件或数据库）的真实数据创建数据帧
