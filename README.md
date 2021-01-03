@@ -5,7 +5,7 @@ Python机器学习手册
 
 #### 第6章
 
-[6.1  清洗文本](/Maching Learning/chapter6/6.1 Clean_text.py)
+[6.1  清洗文本](#Maching Learning/chapter6/6.1 Clean_text.py)
 
 [6.2  解析并清洗HTML](/Maching Learning/chapter6/6.2 Clean_HTML.py)
 
