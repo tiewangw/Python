@@ -70,13 +70,13 @@ Python机器学习手册
 [4.11 Knn.py](MachingLearning/chapter4/4.11%20Knn.py)
 
 
-#### 第5章
-[5.1 one_hot.py](MachingLearning/chapter5/5.1%20one_hot.py)
-[5.2 replace.py](MachingLearning/chapter5/5.2%20replace.py)
-[5.3 DictVectotizer.py](MachingLearning/chapter5/5.3%20DictVectotizer.py)
-[5.4 Knn.py](MachingLearning/chapter5/5.4%20Knn.py)
-#### 第6章
+#### 第5章 处理分类数据
+[5.1 对norminal型分类特征编码](MachingLearning/chapter5/5.1%20one_hot.py)
+[5.2 对ordinal分类特征编码](MachingLearning/chapter5/5.2%20replace.py)
+[5.3 对特征字典编码](MachingLearning/chapter5/5.3%20DictVectotizer.py)
+[5.4 填充缺失的分类值](MachingLearning/chapter5/5.4%20Knn.py)
 
+#### 第6章 处理文本
 [6.1  清洗文本](/MachingLearning/chapter6/6.1Clean_text.py)
 [6.2  解析并清洗HTML](/MachingLearning/chapter6/6.2Clean_HTML.py)
 [6.3  移除标点](MachingLearning/chapter6/6.3Translate.py)
@@ -86,4 +86,25 @@ Python机器学习手册
 [6.7  标注词性](MachingLearning/chapter6/6.7Pos_tag.py)
 [6.8  将文本编码成词袋](MachingLearning/chapter6/6.8CountVectorizer.py)
 [6.9  按单词的重要性加权](MachingLearning/chapter6/6.9TfidVectorizer.py)
+
+#### 第7章 处理日期和时间
+[7.1 把字符串转换成日期](MachingLearning/chapter7/7.1%20to_datetime.py)
+[7.2 处理时区](MachingLearning/chapter7/7.2%20tz_localize.py)
+[7.3 选择日期和时间](MachingLearning/chapter7/7.3%20date_range.py)
+[7.4 将日期数据切分成多个特征](MachingLearning/chapter7/7.4%20dt.py)
+[7.5 计算连个日期之间的时间差](MachingLearning/chapter7/7.5%20delta.py)
+[7.6 对一周内的每天进行编码](MachingLearning/chapter7/7.6%20dt_weekday_name.py)
+[7.7 创建一个滞后的特征](MachingLearning/chapter7/7.7%20shift.py)
+[7.8 使用滚动时间窗口](MachingLearning/chapter7/7.8%20rolling.py)
+[7.9 处理时间序列中的缺失值](MachingLearning/chapter7/7.9%20interpolate.py)
+
+
+
+
+
+
+
+
+
+
 
