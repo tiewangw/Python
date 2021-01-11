@@ -1,6 +1,6 @@
 # Python
 Python机器学习手册
-#### 第1章
+#### 第1章 向量、矩阵和数组
 [1.1 创建一个向量](MachingLearning/chapter1/1.1%20vector.py)
 [1.2 创建一个矩阵](MachingLearning/chapter1/1.2%20matrix.py)
 [1.3 创建一个稀疏矩阵](MachingLearning/chapter1/1.3%20matrix_sparse.py)
@@ -10,20 +10,21 @@ Python机器学习手册
 [1.7 找到最大值和最小值](MachingLearning/chapter1/1.7%20max_mix.py)
 [1.8 计算平均值、方差和标准差](MachingLearning/chapter1/1.8%20mean_var_std.py)
 [1.9 矩阵变形.py](MachingLearning/chapter1/1.9%20reshape.py)
+
 [1.10 转置矩阵](MachingLearning/chapter1/1.10%20T_matrix.py)
 [1.10 转置向量](MachingLearning/chapter1/1.10%20T_vector.py)
-
 [1.11 展开一个矩阵](MachingLearning/chapter1/1.11%20flatten.py)
 [1.12 计算矩阵的秩](MachingLearning/chapter1/1.12%20matrix_rank.py)
 [1.13 计算行列式](MachingLearning/chapter1/1.13%20det.py)
 [1.14 获取矩阵的对角线元素](MachingLearning/chapter1/1.14%20diagonal.py)
-[1.15 计算矩阵的迹](MachingLearning/chapter1/1.15%20trace.py)
 
+[1.15 计算矩阵的迹](MachingLearning/chapter1/1.15%20trace.py)
 [1.16 计算特征值和特征向量](MachingLearning/chapter1/1.16%20eig.py)
 [1.17 计算点积](MachingLearning/chapter1/1.17%20dot-vector.py)
 [1.18 矩阵的加减](MachingLearning/chapter1/1.18%20add_subtract.py)
 [1.19 矩阵的乘法](MachingLearning/chapter1/1.19%20dot-matrix.py)
 [1.20 计算矩阵的逆](MachingLearning/chapter1/1.20%20inv.py)
+
 [1.21 生成随机数](MachingLearning/chapter1/1.21%20random.py)
 
 #### 第2章 加载数据
@@ -75,6 +76,7 @@ Python机器学习手册
 [4.8 将特征离散化](MachingLearning/chapter4/4.8%20Digitize.py)
 [4.9 使用聚类的方式将观察值分组](MachingLearning/chapter4/4.9%20KMean.py)
 [4.10 删除带有缺失值的观察值](MachingLearning/chapter4/4.10%20Dropna.py)
+
 [4.11 填充缺失值](MachingLearning/chapter4/4.11%20Knn.py)
 
 
@@ -107,6 +109,7 @@ Python机器学习手册
 [7.6 对一周内的每天进行编码](MachingLearning/chapter7/7.6%20dt_weekday_name.py)
 [7.7 创建一个滞后的特征](MachingLearning/chapter7/7.7%20shift.py)
 [7.8 使用滚动时间窗口](MachingLearning/chapter7/7.8%20rolling.py)
+
 [7.9 处理时间序列中的缺失值](MachingLearning/chapter7/7.9%20interpolate.py)
 
 
