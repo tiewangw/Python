@@ -112,12 +112,44 @@ Python机器学习手册
 
 [7.9 处理时间序列中的缺失值](MachingLearning/chapter7/7.9%20interpolate.py)
 
+#### 第8章   图像处理
+[8.1 加载图像](MachingLearning/chapter8/8.1%20imread.py)
 
+![1611142326865](MachingLearning/images/1611142326865.png)
 
+[8.2 保存图像](MachingLearning/chapter8/8.2%20imwrite.py)
 
+[8.3 调整图像大小](MachingLearning/chapter8/8.3%20resize.py)
 
+![1611142420566](MachingLearning/images/1611142420566.png)
 
+[8.4 裁剪图像](MachingLearning/chapter8/8.4%20crop.py)
 
+![1611142477347](MachingLearning/images/1611142477347.png)
+
+[8.5 平滑处理图像](MachingLearning/chapter8/8.5%20blurry.py)
+
+![1611142573088](MachingLearning/images/1611142573088.png)
+
+[8.6 图像锐化](MachingLearning/chapter8/8.6%20filter2D.py)
+
+![1611142628582](MachingLearning/images/1611142628582.png)
+
+[8.7 提升对比度](MachingLearning/chapter8/8.7%20enhanced.py)
+
+![1611142663942](MachingLearning/images/1611142663942.png)
+
+[8.8 颜色分离](MachingLearning/chapter8/8.8%20mask.py)
+
+![1611142694942](MachingLearning/images/1611142694942.png)
+
+[8.9 图像二值化](MachingLearning/chapter8/8.9%20threshold.py)
+
+![1611142732946](MachingLearning/images/1611142732946.png)
+
+[8.10 grabCut.py](MachingLearning/chapter8/8.10%20grabCut.py)
+
+![1611143997823](MachingLearning/images/1611143997823.png)
 
 
 
