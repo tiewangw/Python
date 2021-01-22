@@ -1,4 +1,5 @@
-# Python
+Python
+
 Python机器学习手册
 #### 第1章 向量、矩阵和数组
 [1.1 创建一个向量](MachingLearning/chapter1/1.1%20vector.py)
@@ -147,10 +148,23 @@ Python机器学习手册
 
 ![1611142732946](MachingLearning/images/1611142732946.png)
 
-[8.10 grabCut.py](MachingLearning/chapter8/8.10%20grabCut.py)
+[8.10 移除背景](MachingLearning/chapter8/8.10%20grabCut.py)
 
 ![1611143997823](MachingLearning/images/1611143997823.png)
 
+[8.11 边缘检测](MachingLearning/chapter8/8.11%20canny.py)
+
+![1611298188484](MachingLearning/images/1611298188484.png)
+
+[8.12.1 角点检测1](MachingLearning/chapter8/8.12.1%20cornerHarris.py)
+
+![1611298201033](MachingLearning/images/1611298201033.png)
+
+![1611298224599](MachingLearning/images/1611298224599.png)
+
+[8.12.2 角点检测2](MachingLearning/chapter8/8.12.2%20goodFeaturesToTrack.py)
+
+![1611298265880](MachingLearning/images/1611298265880.png)
 
 
 
