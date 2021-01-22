@@ -167,4 +167,8 @@ Python机器学习手册
 ![1611298265880](MachingLearning/images/1611298265880.png)
 
 
+[8.13 flatten.py](MachingLearning/chapter8/8.13%20flatten.py)
 
+[8.14 channels.py](MachingLearning/chapter8/8.14%20channels.py)
+
+[8.15 calcHist.py](MachingLearning/chapter8/8.15%20calcHist.py)
