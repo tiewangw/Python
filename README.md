@@ -1,5 +1,3 @@
-Python
-
 Python机器学习手册
 #### 第1章 向量、矩阵和数组
 [1.1 创建一个向量](MachingLearning/chapter1/1.1%20vector.py)
@@ -175,3 +173,12 @@ Python机器学习手册
 [8.15 calcHist.py](MachingLearning/chapter8/8.15%20calcHist.py)
 
 ![1611301116415](MachingLearning/images/1611301116415.png)
+
+
+
+#### 第9章 利用特征提取进行特征降维
+[9.1 使用主成分进行特征降维](MachingLearning/chapter9/9.1%20PCA.py)
+
+[9.2 Kernel PCA.py](MachingLearning/chapter9/9.2%20Kernel%20PCA.py)
+
+[9.3 通过最大化类间可分性进行特征降维](MachingLearning/chapter9/9.3%20lda.py)
