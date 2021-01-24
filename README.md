@@ -179,6 +179,6 @@ Python机器学习手册
 #### 第9章 利用特征提取进行特征降维
 [9.1 使用主成分进行特征降维](MachingLearning/chapter9/9.1%20PCA.py)
 
-[9.2 Kernel PCA.py](MachingLearning/chapter9/9.2%20Kernel%20PCA.py)
+[9.2 对线性不可分数据进行特征降维](MachingLearning/chapter9/9.2%20Kernel%20PCA.py)
 
 [9.3 通过最大化类间可分性进行特征降维](MachingLearning/chapter9/9.3%20lda.py)
