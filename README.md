@@ -182,3 +182,9 @@ Python机器学习手册
 [9.2 对线性不可分数据进行特征降维](MachingLearning/chapter9/9.2%20Kernel%20PCA.py)
 
 [9.3 通过最大化类间可分性进行特征降维](MachingLearning/chapter9/9.3%20lda.py)
+
+[9.4 对非负特征矩阵进行降维](MachingLearning/chapter9/9.4%20nmf.py)
+
+[9.5 对稀疏数据矩阵进行降维](MachingLearning/chapter9/9.5%20TSVD.py)
+
+
