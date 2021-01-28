@@ -188,3 +188,7 @@ Python机器学习手册
 [9.5 对稀疏数据矩阵进行降维](MachingLearning/chapter9/9.5%20TSVD.py)
 
 
+
+#### 第10章 使用特征选择进行降维
+
+[10.1 数值型特征方差的阈值化](MachingLearning/chapter10/10.1%20VarianceThreshold.py)
