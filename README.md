@@ -192,3 +192,11 @@ Python机器学习手册
 #### 第10章 使用特征选择进行降维
 
 [10.1 数值型特征方差的阈值化](MachingLearning/chapter10/10.1%20VarianceThreshold.py)
+
+[10.2 二值特征的方差阈值化](MachingLearning/chapter10/10.2%20VarianceThreshold.py)
+
+[10.3 删除与分类任务不相关的特征](MachingLearning/chapter10/10.3%20dropColumns.py)
+
+[10.4 删除与分类任务不相关的特征](MachingLearning/chapter10/10.4%20SelectKBest.py)
+
+[10.5 递归式特征消除](MachingLearning/chapter10/10.5%20RFECV.py)
